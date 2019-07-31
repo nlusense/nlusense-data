@@ -9,4 +9,6 @@ computer science.
 Contributions to the repository of data backing [the portal](https://nlusense.com) are currently accepted in the form of
 feature requests and issues that can be submitted via this repository. 
 
-![NLSense.com screenshot](images/nlusense_screenshot.png)
+<div align="center">
+  <img src="images/nlusense_screenshot.png" alt="NLUSense.com screenshot"/>
+</div>
